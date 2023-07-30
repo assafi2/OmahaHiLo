@@ -1,2 +1,2 @@
-refer to omohacomp.cpp (as the file consist the main fuction) for running the OMHLHandproccessor with the given input file "input_file.txt" to produce ouptput to an "output_file".txt file 
+refer to omohacomp.cpp (as the file consist the main fuction) for running the OMHLHandproccessor (instance) with the given input file "input_file.txt" to produce ouptput to an output file (supply command line args for both file names, which will locally existed)     
 can be configure to any VALID ifstream / ofstream correspodingly (e.g. std::in / std::out) 
