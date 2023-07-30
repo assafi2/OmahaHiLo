@@ -21,7 +21,7 @@ please notice "high hands" cards combinations ranks goes same as with Texas Hold
    one pair,
    high-card.
 
-while there is NO difrentiations by suits (no suit cosidered better then the other) and there is a preferance for HIGHER CARDS VALUES 
+while there is NO difrentiations by suits (no suit cosidered better then the other) and there IS a preferance for higher cards values 
 
 for "low hands" winning and other relevant rules, 
 please review the parts (within the next link) : Omaha Hi-Lo Basic Rules ,Omaha Hi-Lo Rules - The Showdown ,Omaha Hi-Lo Poker Hand Rules
