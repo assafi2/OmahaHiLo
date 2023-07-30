@@ -9,7 +9,7 @@ Support a general case of similiar pocker hands processing (two hands and a tabl
 while implemented for the Omaha Li Lo specific case (OMHLHandsprocessor extends abstract class HandsProcessor) 
    
 
-please notice "high hands" cards combinations ranks goes same as with Texas Hold'em (best to worst): 
+please notice "high hands" cards combinations ranks goes same as with Texas Hold'em (best to worst) : 
    royal flush,
    straight flush,
    four-of-a-kind,
