@@ -10,16 +10,16 @@ while implemented for the Omaha Li Lo specific case (OMHLHandsprocessor extends 
    
 
 please notice "high hands" cards combinations ranks goes same as with Texas Hold'em (best to worst): 
-    royal flush
-    straight flush
-    four-of-a-kind
-    full house
-    flush
-    straight
-    three-of-a-kind
-    two pair
-    one pair
-    high-card.
+   royal flush
+   straight flush
+   four-of-a-kind
+   full house
+   flush
+   straight
+   three-of-a-kind
+   two pair
+   one pair
+   high-card.
 
 while there is NO difrentiations by suits (no suit cosidered better then the other) and there is a preferance for HIGHER CARDS VALUES 
 
