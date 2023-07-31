@@ -6,7 +6,7 @@ Omaha Hi Lo pocker hands proccessing program accept a VALID input (fstream) incl
 and determine a corresponding sequence of High winner(s) as well as Low winner(s) (if exist) for each two hands and a table (sequence element), according to Omaha Hi Lo pocker rules .
 
 Support a general case of similiar pocker hands processing (two hands and a table inputs sequence as an input to determine a similar ouptput - except Low winner within common poker games),
-while implemented for the Omaha Li Lo specific case (OHLHandsProcessor extends abstract class HandsProcessor) 
+while implemented for the Omaha Li Lo case (OHLHandsProcessor extends abstract class HandsProcessor) 
    
 
 please notice "high hands" cards combinations ranks goes same as with Texas Hold'em (best to worst) : 
