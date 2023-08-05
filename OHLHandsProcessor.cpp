@@ -415,8 +415,8 @@ Stats OHLHandsProcessor::extractStats(vector<Card> comb) {
 void OHLHandsProcessor::udpateLo(vector<Card> comb1, vector<Card> comb2) {
 
 	// Player 1 logic
-	// player 2 duplicated code ! was in a hurry to be changed !!!
-
+	// player 2 duplicated code ! to be changed !
+	
 	vector<Card>::iterator iter = comb1.begin() ;
 	bool valid = true ; // indicates for a valid sequence (i.e. no duplicates and below 8)
 	int loNum = 0 ;
